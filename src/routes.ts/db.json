@@ -1,0 +1,633 @@
+[
+    {
+        "image": "https://www.cloud.ryanscomputers.com/cdn/products/main/intel-9th-gen-coffee-lake-core-i9-9900k-11551532793.webp",
+        "productName": "Intel Core i9-9900K",
+        "category": "CPU / Processor",
+        "status": "In Stock",
+        "price": 499.99,
+        "description": "High-performance CPU for gaming and content creation.",
+        "keyFeatures": [
+            "Brand: Intel",
+            "Cores: 8",
+            "Threads: 16",
+            "Clock Speed: 3.6 GHz"
+        ],
+        "individualRating": 4.8,
+        "averageRating": 4.6,
+        "reviews": [
+            "Excellent performance!",
+            "Worth every penny."
+        ]
+    },
+    {
+        "image": "https://www.techlandbd.com/image/catalog/Motherboard/Asus/ROG%20STRIX%20Z390/asus-rog-strix-z390-e-gaming-ddr4-8th-9th-gen-intel-lga1151-socket-motherboard-review.jpg",
+        "productName": "ASUS ROG Strix Z390-E",
+        "category": "Motherboard",
+        "status": "In Stock",
+        "price": 279.99,
+        "description": "Feature-rich motherboard for gaming and overclocking.",
+        "keyFeatures": [
+            "Brand: ASUS",
+            "Form Factor: ATX",
+            "RAM Slots: 4"
+        ],
+        "individualRating": 4.7,
+        "averageRating": 4.5,
+        "reviews": [
+            "Great build quality!",
+            "Easy BIOS setup."
+        ]
+    },
+    {
+        "image": "https://www.techlandbd.com/image/catalog/RAM/Corsair/Corsair-Vengeance-LPX-16GB-(1x16GB)-DDR4-3000MHz-Ram.jpg",
+        "productName": "Corsair Vengeance LPX 16GB",
+        "category": "RAM",
+        "status": "In Stock",
+        "price": 89.99,
+        "description": "High-performance DDR4 RAM for seamless multitasking.",
+        "keyFeatures": [
+            "Brand: Corsair",
+            "Capacity: 16GB",
+            "Speed: 3200MHz"
+        ],
+        "individualRating": 4.5,
+        "averageRating": 4.3,
+        "reviews": [
+            "Fast and reliable!",
+            "Great value for money."
+        ]
+    },
+    {
+        "image": "https://m.media-amazon.com/images/I/7161gvivMVS.jpg",
+        "productName": "EVGA 750W Gold",
+        "category": "Power Supply Unit",
+        "status": "In Stock",
+        "price": 129.99,
+        "description": "Efficient and reliable power supply for gaming rigs.",
+        "keyFeatures": [
+            "Brand: EVGA",
+            "Wattage: 750W",
+            "Certification: 80 Plus Gold"
+        ],
+        "individualRating": 4.6,
+        "averageRating": 4.4,
+        "reviews": [
+            "Stable power output.",
+            "Quiet operation."
+        ]
+    },
+    {
+        "image": "https://www.startech.com.bd/image/cache/catalog/ssd/samsung/970-evo-plus-1tb/970-evo-plus-1tb-500x500.jpg",
+        "productName": "Samsung 970 EVO 1TB NVMe SSD",
+        "category": "Storage Device",
+        "status": "In Stock",
+        "price": 199.99,
+        "description": "High-speed NVMe SSD for rapid data access.",
+        "keyFeatures": [
+            "Brand: Samsung",
+            "Capacity: 1TB",
+            "Interface: NVMe"
+        ],
+        "individualRating": 4.9,
+        "averageRating": 4.8,
+        "reviews": [
+            "Blazing fast!",
+            "Easy installation."
+        ]
+    },
+    {
+        "image": "https://media.techeblog.com/images/lg-27gl83a-b-27-inch-ultragear-qhd-gaming-monitor.jpg",
+        "productName": "LG 27GL83A-B 27-Inch Gaming Monitor",
+        "category": "Monitor",
+        "status": "In Stock",
+        "price": 449.99,
+        "description": "High-refresh-rate gaming monitor for competitive gameplay.",
+        "keyFeatures": [
+            "Brand: LG",
+            "Size: 27 inches",
+            "Refresh Rate: 144Hz"
+        ],
+        "individualRating": 4.8,
+        "averageRating": 4.7,
+        "reviews": [
+            "Smooth visuals!",
+            "Vibrant colors."
+        ]
+    },
+    {
+        "image": "https://www.cloud.ryanscomputers.com/cdn/products/main/zotac-nvidia-geforce-rtx-3080-ti-amp-holo-12gb-11623049026.webp",
+        "productName": "NVIDIA GeForce RTX 3080",
+        "category": "Others (GPU, Mouse, Keyboard, etc…)",
+        "status": "In Stock",
+        "price": 699.99,
+        "description": "Powerful GPU for high-end gaming and content creation.",
+        "keyFeatures": [
+            "Brand: NVIDIA",
+            "VRAM: 10GB GDDR6X",
+            "Ray Tracing: Yes"
+        ],
+        "individualRating": 4.7,
+        "averageRating": 4.6,
+        "reviews": [
+            "Beast of a GPU!",
+            "Handles everything flawlessly."
+        ]
+    },
+    {
+        "image": "https://assets.hardwarezone.com/img/2019/10/logitech-g-pro-x-keyboard.jpg",
+        "productName": "Logitech G Pro Mechanical Keyboard",
+        "category": "Others (GPU, Mouse, Keyboard, etc…)",
+        "status": "In Stock",
+        "price": 119.99,
+        "description": "Compact mechanical keyboard for gaming enthusiasts.",
+        "keyFeatures": [
+            "Brand: Logitech",
+            "Switches: Mechanical",
+            "Backlighting: RGB"
+        ],
+        "individualRating": 4.5,
+        "averageRating": 4.3,
+        "reviews": [
+            "Responsive keys!",
+            "Sleek design."
+        ]
+    },
+    {
+        "image": "https://vision-techno.com/assets/images/columnsblocks/product243/18163.jpg",
+        "productName": "Intel Core i9-9900K",
+        "category": "CPU / Processor",
+        "status": "In Stock",
+        "price": 499.99,
+        "description": "High-performance CPU for gaming and content creation.",
+        "keyFeatures": [
+            "Brand: Intel",
+            "Cores: 8",
+            "Threads: 16",
+            "Clock Speed: 3.6 GHz"
+        ],
+        "individualRating": 4.8,
+        "averageRating": 4.6,
+        "reviews": [
+            "Excellent performance!",
+            "Worth every penny."
+        ]
+    },
+    {
+        "image": "https://www.cloud.ryanscomputers.com/cdn/products/main/single-amd-ryzen-7-5800x-38ghz-47ghz-8-core-21605422339.webp",
+        "productName": "AMD Ryzen 7 5800X",
+        "category": "CPU / Processor",
+        "status": "In Stock",
+        "price": 449.99,
+        "description": "Powerful multi-core processor for high-performance tasks.",
+        "keyFeatures": [
+            "Brand: AMD",
+            "Cores: 8",
+            "Threads: 16",
+            "Clock Speed: 3.8 GHz"
+        ],
+        "individualRating": 4.7,
+        "averageRating": 4.5,
+        "reviews": [
+            "Impressive performance!",
+            "Great for multitasking."
+        ]
+    },
+    {
+        "image": "https://diamu.com.bd/wp-content/uploads/2021/12/Intel-Core-i7-11700K-11th-Gen-Rocket-Lake-Processor.jpg",
+        "productName": "Intel Core i7-11700K",
+        "category": "CPU / Processor",
+        "status": "In Stock",
+        "price": 399.99,
+        "description": "High-frequency CPU for gamers and content creators.",
+        "keyFeatures": [
+            "Brand: Intel",
+            "Cores: 8",
+            "Threads: 16",
+            "Clock Speed: 3.6 GHz"
+        ],
+        "individualRating": 4.6,
+        "averageRating": 4.4,
+        "reviews": [
+            "Smooth gaming experience!",
+            "Excellent overclocking potential."
+        ]
+    },
+    {
+        "image": "https://dlcdnimgs.asus.com/websites/global/products/mutJZMS4AmtmyQbV/img/aesthetics/lighting-m.png",
+        "productName": "ASUS ROG Strix Z390-E",
+        "category": "Motherboard",
+        "status": "In Stock",
+        "price": 279.99,
+        "description": "Feature-rich motherboard for gaming and overclocking.",
+        "keyFeatures": [
+            "Brand: ASUS",
+            "Form Factor: ATX",
+            "RAM Slots: 4"
+        ],
+        "individualRating": 4.7,
+        "averageRating": 4.5,
+        "reviews": [
+            "Great build quality!",
+            "Easy BIOS setup."
+        ]
+    },
+    {
+        "image": "https://www.gigabyte.com/FileUpload/Global/KeyFeature/966/images/spec-small.jpg",
+        "productName": "GIGABYTE B450 AORUS PRO WIFI",
+        "category": "Motherboard",
+        "status": "In Stock",
+        "price": 129.99,
+        "description": "Affordable motherboard with built-in Wi-Fi support.",
+        "keyFeatures": [
+            "Brand: GIGABYTE",
+            "Form Factor: ATX",
+            "Wi-Fi: Yes"
+        ],
+        "individualRating": 4.5,
+        "averageRating": 4.3,
+        "reviews": [
+            "Solid performance!",
+            "Wi-Fi works flawlessly."
+        ]
+    },
+    {
+        "image": "https://www.gigabyte.com/FileUpload/Global/KeyFeature/966/images/spec-small.jpg",
+        "productName": "MSI MPG Z490 Gaming Edge WiFi",
+        "category": "Motherboard",
+        "status": "In Stock",
+        "price": 189.99,
+        "description": "Gaming-oriented motherboard with Wi-Fi 6 support.",
+        "keyFeatures": [
+            "Brand: MSI",
+            "Form Factor: ATX",
+            "Wi-Fi: Yes"
+        ],
+        "individualRating": 4.6,
+        "averageRating": 4.4,
+        "reviews": [
+            "Impressive RGB lighting!",
+            "Stable overclocking."
+        ]
+    },
+    {
+        "image": "https://www.cloud.ryanscomputers.com/cdn/products/main/gskill-trident-z-neo-rgb-32gb-ddr4-3600mhz-31632805254.webp",
+        "productName": "G.SKILL Trident Z Neo 32GB",
+        "category": "RAM",
+        "status": "In Stock",
+        "price": 159.99,
+        "description": "RGB-equipped DDR4 RAM for enhanced aesthetics.",
+        "keyFeatures": [
+            "Brand: G.SKILL",
+            "Capacity: 32GB",
+            "Speed: 3600MHz"
+        ],
+        "individualRating": 4.7,
+        "averageRating": 4.6,
+        "reviews": [
+            "Stunning RGB effects!",
+            "High-quality build."
+        ]
+    },
+    {
+        "image": "https://www.techlandbd.com/image/catalog/RAM/Kingston/Desktop/Fury%20Beast/Kingston%20Fury%20Beast%20ram-01.jpg",
+        "productName": "HyperX Fury 8GB",
+        "category": "RAM",
+        "status": "In Stock",
+        "price": 59.99,
+        "description": "Budget-friendly DDR4 RAM for entry-level builds.",
+        "keyFeatures": [
+            "Brand: HyperX",
+            "Capacity: 8GB",
+            "Speed: 2666MHz"
+        ],
+        "individualRating": 4.4,
+        "averageRating": 4.2,
+        "reviews": [
+            "Good performance for the price.",
+            "Reliable brand."
+        ]
+    },
+    {
+        "image": "https://m.media-amazon.com/images/I/71POUO-MQCL.jpg",
+        "productName": "EVGA 750W Gold",
+        "category": "Power Supply Unit",
+        "status": "In Stock",
+        "price": 129.99,
+        "description": "Efficient and reliable power supply for gaming rigs.",
+        "keyFeatures": [
+            "Brand: EVGA",
+            "Wattage: 750W",
+            "Certification: 80 Plus Gold"
+        ],
+        "individualRating": 4.6,
+        "averageRating": 4.4,
+        "reviews": [
+            "Stable power output.",
+            "Quiet operation."
+        ]
+    },
+    {
+        "image": "https://trusttechbd.com/storage/media/R4woxvXToMQ5iB9zaAR3pj7E5FMry4DrGtHrYR0a.jpg",
+        "productName": "Corsair RM850x",
+        "category": "Power Supply Unit",
+        "status": "In Stock",
+        "price": 149.99,
+        "description": "Modular PSU with high efficiency and low noise levels.",
+        "keyFeatures": [
+            "Brand: Corsair",
+            "Wattage: 850W",
+            "Certification: 80 Plus Gold"
+        ],
+        "individualRating": 4.8,
+        "averageRating": 4.7,
+        "reviews": [
+            "Whisper-quiet!",
+            "Reliable power delivery."
+        ]
+    },
+    {
+        "image": "https://seasonic.com/pub/media/catalog/product/cache/3cbda8e892dc62fc02660815c2a4b231/f/o/focus-gx-650-box_1.jpg",
+        "productName": "Seasonic Focus GX-650",
+        "category": "Power Supply Unit",
+        "status": "In Stock",
+        "price": 109.99,
+        "description": "Compact PSU with 80 Plus Gold efficiency.",
+        "keyFeatures": [
+            "Brand: Seasonic",
+            "Wattage: 650W",
+            "Certification: 80 Plus Gold"
+        ],
+        "individualRating": 4.7,
+        "averageRating": 4.5,
+        "reviews": [
+            "Solid build quality.",
+            "Great value."
+        ]
+    },
+    {
+        "image": "https://limerickcomputers.ie/wp-content/uploads/2021/04/Samsung-MZ-V7E1T0BW-970-EVO-M.2-NVMe-Internal-V-NAND-SSD-1Tb-1000Gb.jpg",
+        "productName": "Samsung 970 EVO 1TB NVMe SSD",
+        "category": "Storage Device",
+        "status": "In Stock",
+        "price": 199.99,
+        "description": "High-speed NVMe SSD for rapid data access.",
+        "keyFeatures": [
+            "Brand: Samsung",
+            "Capacity: 1TB",
+            "Interface: NVMe"
+        ],
+        "individualRating": 4.9,
+        "averageRating": 4.8,
+        "reviews": [
+            "Blazing fast!",
+            "Easy installation."
+        ]
+    },
+    {
+        "image": "https://www.cloud.ryanscomputers.com/cdn/products/main/western-digital-blue-2tb-35-inch-sata-7200rpm-11674455364.webp",
+        "productName": "Western Digital Blue 2TB HDD",
+        "category": "Storage Device",
+        "status": "In Stock",
+        "price": 79.99,
+        "description": "Large-capacity hard drive for data storage.",
+        "keyFeatures": [
+            "Brand: Western Digital",
+            "Capacity: 2TB",
+            "Type: HDD"
+        ],
+        "individualRating": 4.6,
+        "averageRating": 4.4,
+        "reviews": [
+            "Plenty of space!",
+            "Reliable storage."
+        ]
+    },
+    {
+        "image": "https://www.ramcity.com.au/cdn/shop/products/CT500MX500SSD1_0fcf75c6-3c5a-4989-9bfa-a71e932ace0f_1200x1200.png?v=1574230766",
+        "productName": "Crucial MX500 500GB SATA SSD",
+        "category": "Storage Device",
+        "status": "In Stock",
+        "price": 69.99,
+        "description": "Solid SATA SSD for faster system performance.",
+        "keyFeatures": [
+            "Brand: Crucial",
+            "Capacity: 500GB",
+            "Interface: SATA"
+        ],
+        "individualRating": 4.5,
+        "averageRating": 4.3,
+        "reviews": [
+            "Noticeable speed improvement!",
+            "Great value SSD."
+        ]
+    },
+    {
+        "image": "https://www.lg.com/ae/images/consumer-monitors/features/D03_mnt-27gl83a-01-2-lg-ultragear-d.jpg",
+        "productName": "LG 27GL83A-B 27-Inch Gaming Monitor",
+        "category": "Monitor",
+        "status": "In Stock",
+        "price": 449.99,
+        "description": "High-refresh-rate gaming monitor for competitive gameplay.",
+        "keyFeatures": [
+            "Brand: LG",
+            "Size: 27 inches",
+            "Refresh Rate: 144Hz"
+        ],
+        "individualRating": 4.8,
+        "averageRating": 4.7,
+        "reviews": [
+            "Smooth visuals!",
+            "Vibrant colors."
+        ]
+    },
+    {
+        "image": "https://www.cloud.ryanscomputers.com/cdn/products/main/asus-tuf-gaming-vg279qm-27-inch-fhd-1920x1080-11584795265.webp",
+        "productName": "ASUS TUF VG279Q 27-Inch Monitor",
+        "category": "Monitor",
+        "status": "In Stock",
+        "price": 299.99,
+        "description": "Affordable gaming monitor with AMD FreeSync.",
+        "keyFeatures": [
+            "Brand: ASUS",
+            "Size: 27 inches",
+            "Refresh Rate: 144Hz"
+        ],
+        "individualRating": 4.6,
+        "averageRating": 4.4,
+        "reviews": [
+            "Great value!",
+            "Smooth gaming experience."
+        ]
+    },
+    {
+        "image": "https://m.media-amazon.com/images/I/71UVQ7d0hgL.jpg",
+        "productName": "Dell Ultrasharp U2719D 27-Inch Monitor",
+        "category": "Monitor",
+        "status": "In Stock",
+        "price": 399.99,
+        "description": "Professional-grade monitor with QHD resolution.",
+        "keyFeatures": [
+            "Brand: Dell",
+            "Size: 27 inches",
+            "Resolution: 2560x1440"
+        ],
+        "individualRating": 4.7,
+        "averageRating": 4.6,
+        "reviews": [
+            "Outstanding color accuracy!",
+            "Ideal for designers."
+        ]
+    },
+    {
+        "image": "https://www.nvidia.com/content/dam/en-zz/Solutions/geforce/ampere/rtx-3080-3080ti/geforce-rtx-3080-ti-og-1200x630.jpg",
+        "productName": "NVIDIA GeForce RTX 3080",
+        "category": "Others (GPU, Mouse, Keyboard, etc…)",
+        "status": "In Stock",
+        "price": 699.99,
+        "description": "Powerful GPU for high-end gaming and content creation.",
+        "keyFeatures": [
+            "Brand: NVIDIA",
+            "VRAM: 10GB GDDR6X",
+            "Ray Tracing: Yes"
+        ],
+        "individualRating": 4.7,
+        "averageRating": 4.6,
+        "reviews": [
+            "Beast of a GPU!",
+            "Handles everything flawlessly."
+        ]
+    },
+    {
+        "image": "https://assets-global.website-files.com/5d1911406ad3cbdb9924a753/614339b6b3fad5635ca59321_XFX%206700XT%20MBA.jpg",
+        "productName": "AMD Radeon RX 6700 XT",
+        "category": "Others (GPU, Mouse, Keyboard, etc…)",
+        "status": "In Stock",
+        "price": 499.99,
+        "description": "High-performance graphics card for gaming enthusiasts.",
+        "keyFeatures": [
+            "Brand: AMD",
+            "VRAM: 12GB GDDR6",
+            "Ray Tracing: Yes"
+        ],
+        "individualRating": 4.6,
+        "averageRating": 4.5,
+        "reviews": [
+            "Excellent value!",
+            "Impressive frame rates."
+        ]
+    },
+    {
+        "image": "https://www.startech.com.bd/image/cache/catalog/graphics-card/msi/geforce-gtx-1650-super-ventus-xs/geforce-gtx-1650-super-ventus-xs-500x500.jpg",
+        "productName": "MSI GeForce GTX 1650 Super",
+        "category": "Others (GPU, Mouse, Keyboard, etc…)",
+        "status": "In Stock",
+        "price": 249.99,
+        "description": "Entry-level GPU for budget-friendly gaming setups.",
+        "keyFeatures": [
+            "Brand: MSI",
+            "VRAM: 4GB GDDR5",
+            "Ray Tracing: No"
+        ],
+        "individualRating": 4.3,
+        "averageRating": 4.2,
+        "reviews": [
+            "Great for casual gaming!",
+            "Handles modern titles."
+        ]
+    },
+    {
+        "image": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6394/6394003cv12d.jpg",
+        "productName": "Corsair K95 RGB Platinum XT",
+        "category": "Others (GPU, Mouse, Keyboard, etc…)",
+        "status": "In Stock",
+        "price": 179.99,
+        "description": "High-end mechanical keyboard with customizable RGB lighting.",
+        "keyFeatures": [
+            "Brand: Corsair",
+            "Switches: Mechanical",
+            "Backlighting: RGB"
+        ],
+        "individualRating": 4.7,
+        "averageRating": 4.6,
+        "reviews": [
+            "Premium build!",
+            "Extensive RGB options."
+        ]
+    },
+    {
+        "image": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6417/6417116cv16d.jpg",
+        "productName": "Razer Cynosa V2 Gaming Keyboard",
+        "category": "Others (GPU, Mouse, Keyboard, etc…)",
+        "status": "In Stock",
+        "price": 69.99,
+        "description": "Affordable gaming keyboard with customizable backlighting.",
+        "keyFeatures": [
+            "Brand: Razer",
+            "Switches: Membrane",
+            "Backlighting: RGB"
+        ],
+        "individualRating": 4.4,
+        "averageRating": 4.2,
+        "reviews": [
+            "Value for money!",
+            "Comfortable typing."
+        ]
+    },
+    {
+        "image": "https://trusttechbd.com/storage/media/1iO8B9b02QIbLvTd91tlppZiLIYsQZ5UOCpG6WKp.jpg",
+        "productName": "Logitech G Pro Wireless Gaming Mouse",
+        "category": "Others (GPU, Mouse, Keyboard, etc…)",
+        "status": "In Stock",
+        "price": 149.99,
+        "description": "Wireless gaming mouse with high-precision sensor.",
+        "keyFeatures": [
+            "Brand: Logitech",
+            "DPI: 16000",
+            "Connectivity: Wireless"
+        ],
+        "individualRating": 4.8,
+        "averageRating": 4.7,
+        "reviews": [
+            "Accurate tracking!",
+            "Lightweight design."
+        ]
+    },
+    {
+        "image": "https://i.ytimg.com/vi/HOjTHa_IZug/maxresdefault.jpg",
+        "productName": "Razer DeathAdder Elite Gaming Mouse",
+        "category": "Others (GPU, Mouse, Keyboard, etc…)",
+        "status": "In Stock",
+        "price": 69.99,
+        "description": "Ergonomic gaming mouse with customizable RGB lighting.",
+        "keyFeatures": [
+            "Brand: Razer",
+            "DPI: 16000",
+            "Connectivity: Wired"
+        ],
+        "individualRating": 4.6,
+        "averageRating": 4.5,
+        "reviews": [
+            "Comfortable grip!",
+            "Smooth gliding."
+        ]
+    },
+    {
+        "image": "https://c1.neweggimages.com/ProductImage/26-249-225-V01.jpg",
+        "productName": "SteelSeries Rival 600 Gaming Mouse",
+        "category": "Others (GPU, Mouse, Keyboard, etc…)",
+        "status": "In Stock",
+        "price": 79.99,
+        "description": "Dual-sensor gaming mouse for precise tracking.",
+        "keyFeatures": [
+            "Brand: SteelSeries",
+            "DPI: 12000",
+            "Connectivity: Wired"
+        ],
+        "individualRating": 4.7,
+        "averageRating": 4.6,
+        "reviews": [
+            "Excellent accuracy!",
+            "Customizable weight."
+        ]
+    }
+]
