@@ -11,6 +11,28 @@ const getAllProducts = async (req: Request, res: Response) => {
       .send({ error: "An error occurred while fetching products." });
   }
 };
+const getLast = async (req: Request, res: Response) => {
+  try {
+    const result = await Product.find().limit(7);
+    res.status(200).send(result);
+  } catch (error) {
+    res
+      .status(500)
+      .send({ error: "An error occurred while fetching products." });
+  }
+};
+const getProductsByCategory = async (req: Request, res: Response) => {
+  const { category } = req.params;
+
+  try {
+    const products = await Product.find({ category });
+    res.status(200).json(products);
+  } catch (error) {
+    res
+      .status(500)
+      .json({ error: "An error occurred while fetching products." });
+  }
+};
 const getProductById = async (req: Request, res: Response) => {
   const { id } = req.params; // Get the product ID from the request params
 
@@ -85,4 +107,6 @@ export const ProductController = {
   createProduct,
   updateProduct,
   deleteProduct,
+  getLast,
+  getProductsByCategory,
 };
